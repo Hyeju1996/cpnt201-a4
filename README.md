@@ -1,5 +1,8 @@
 # cpnt201-a4
 
+- artubute: Hyeju Hong
+- [GitHub alive](https://github.com/Hyeju1996/cpnt201-a4)
+
 ## Build Setup
 
 ```bash
